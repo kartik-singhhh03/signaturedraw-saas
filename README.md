@@ -3,7 +3,7 @@
 A modern, free digital signature pad built with React, TypeScript, and TailwindCSS. Create, customize, and download professional signatures instantly.
 
 ## 🌐 Live Site
-[https://signaturedraw.com](https://signaturedraw.com)
+[https://signaturedraw.vercel.app/](https://signaturedraw.vercel.app/)
 
 ## ✨ Features
 
